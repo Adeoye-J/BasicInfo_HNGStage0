@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
   res.json({
     email: "bankolejeremiahadeoye@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Adeoye-J/your-repo",
+    github_url: "https://github.com/Adeoye-J/BasicInfo_HNGStage0",
   });
 });
 
